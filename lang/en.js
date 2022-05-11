@@ -22,22 +22,25 @@ module.exports = {
             support: {
                 title: 'Support',
                 items: {
-                    partners: 'Partners',
-                    team: 'Team'
+                    discord: 'Discord',
+                    github: 'Github',
+                    contact: 'Contact'
                 }
             },
             legal: {
                 title: 'Legal',
                 items: {
                     tos: 'Terms of Service',
-                    privacy: 'Privacy Policy'
+                    privacy: 'Privacy Policy',
+                    cookies: 'Cookie Consent'
                 }
             },
             misc: {
                 title: 'Misc',
                 items: {
-                    tos: 'Terms of Service',
-                    privacy: 'Privacy Policy'
+                    rules: 'List Rules',
+                    guidelines: 'List Guidelines',
+                    howto: 'Add a List'
                 }
             },
         },
@@ -47,9 +50,7 @@ module.exports = {
         title: 'Metro Reviews',
         description: 'The centralized solution for Discord Bot List management',
         buttons: {
-            dashboard: 'Dashboard',
-            support: 'Support Server',
-            with_discord: 'Login with Discord'
+            support: 'Support Server'
         },
         features: {
             title: 'Why choose <span class="text-amber-500 font-bold">Metro?</span>',
