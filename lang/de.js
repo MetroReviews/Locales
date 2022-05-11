@@ -30,14 +30,16 @@ module.exports = {
                 title: 'Legales',
                 items: {
                     tos: 'Nutzungsbedingungen',
-                    privacy: 'Datenschutzerklärung'
+                    privacy: 'Datenschutzerklärung',
+                    cookies: 'Zustimmung der Cookies'
                 }
             },
             misc: {
-                title: 'Weiteres',
+                title: 'Weiters',
                 items: {
-                    tos: 'Nutzungsbedingungen',
-                    privacy: 'Datenschutzerklärung'
+                    rules: 'Botlisten Regeln',
+                    guidelines: 'Botlist Richtlinien',
+                    howto: 'Eine Liste hinzufügen'
                 }
             },
         },
