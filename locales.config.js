@@ -13,10 +13,5 @@ module.exports = {
         iso: "de",
         name: "Deutsch",
         country: "de",
-    }, 
-    se: {
-        iso: "se",
-        name: "Sweden",
-        country: "se",
-    }, 
+    }
 };
