@@ -9,9 +9,14 @@ module.exports = {
         name: "Français",
         country: "fr",
     },
- s: {
-        iso: "SE",
-        name: "Swedish",
-        country: "sweden",
-    },
+    de: {
+        iso: "de",
+        name: "Deutsch",
+        country: "de",
+    }, 
+    se: {
+        iso: "se",
+        name: "Sweden",
+        country: "se",
+    }, 
 };
