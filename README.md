@@ -12,7 +12,7 @@ __**NOTE:**__ You do not need to translate any HTML Tags just leave them where a
 
 ## Contributors
 <a href="https://github.com/MetroReviews/Locales/graphs/contributors">
-  <img width="75" height="75" src="https://contrib.rocks/image?repo=MetroReviews/Locales" />
+  <img width="125" height="125" src="https://contrib.rocks/image?repo=MetroReviews/Locales" />
 </a>
 
 ---
