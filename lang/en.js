@@ -6,6 +6,7 @@ module.exports = {
         home: 'Home',
         team: 'Team',
         lists: 'Lists',
+        bots: 'Bots',
         github: 'GitHub'
     },
 
@@ -345,6 +346,19 @@ module.exports = {
             support: 'Get Support',
             home: 'Go Home'
         },
+        navigation: {
+            title: 'Navigation',
+            desc: 'Navigate to your desired section',
+            terms: 'Terms',
+            use: 'Use License',
+            discl: 'Disclaimer',
+            limits: 'Limitations',
+            revise: 'Revisions and Errata',
+            third: 'Third-Party Links',
+            modify: 'Site Modifications',
+            privacy: 'Your Privacy',
+            law: 'Governing Law'
+        },
         sections: {
             terms: {
                 title: 'Terms',
@@ -352,30 +366,30 @@ module.exports = {
             },
             license: {
                 title: 'Use License',
-                texts: 'Permission is granted to temporarily download one copy of the materials on Metro Bots\'s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:',
+                texts: 'Permission is granted to temporarily download one copy of the materials on Metro Reviews\'s Website for personal, non-commercial transitory viewing only. This is the grant of a license, not a transfer of title, and under this license you may not:',
                 list: {
                     item_1: 'modify or copy the materials;',
                     item_2: 'use the materials for any commercial purpose or for any public display;',
-                    item_3: 'attempt to reverse engineer any software contained on Metro Bots\'s Website or API;',
+                    item_3: 'attempt to reverse engineer any software contained on Metro Reviews\'s Website or API;',
                     item_4: 'remove any copyright or other proprietary notations from the materials; or',
                     item_5: 'transferring the materials to another person or "mirror" the materials on any other server.'
                 }
             },
             disclaimer: {
                 title: 'Disclaimer',
-                texts: 'All the materials on Metro Bots’s Website are provided "as is". Metro Bots makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Metro Bots does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.',
+                texts: 'All the materials on Metro Reviews’s Website are provided "as is". Metro Reviews makes no warranties, may it be expressed or implied, therefore negates all other warranties. Furthermore, Metro Reviews does not make any representations concerning the accuracy or reliability of the use of the materials on its Website or otherwise relating to such materials or any sites linked to this Website.',
             },
             limitations: {
                 title: 'Limitations',
-                texts: 'Metro Bots or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Metro Bots’s Website, even if Metro Bots or an authorize representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.'
+                texts: 'Metro Reviews or its suppliers will not be hold accountable for any damages that will arise with the use or inability to use the materials on Metro Review’s Website, even if Metro Reviews or an authorized representative of this Website has been notified, orally or written, of the possibility of such damage. Some jurisdiction does not allow limitations on implied warranties or limitations of liability for incidental damages, these limitations may not apply to you.'
             },
             revisions: {
                 title: 'Revisions and Errata',
-                texts: 'The materials appearing on Metro Bots’s Website may include technical, typographical, or photographic errors. Metro Bots will not promise that any of the materials in this Website are accurate, complete, or current. Metro Bots may change the materials contained on its Website at any time without notice. Metro Bots does not make any commitment to update the materials.'
+                texts: 'The materials appearing on Metro Reviews’s Website may include technical, typographical, or photographic errors. Metro Reviews will not promise that any of the materials in this Website are accurate, complete, or current. Metro Reviews may change the materials contained on its Website at any time without notice. Metro Reviews does not make any commitment to update the materials.'
             },
             links: {
                 title: 'Links',
-                texts: 'Metro Review has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Metro Review of the site. The use of any linked website is at the user’s own risk.'
+                texts: 'Metro Reviews has not reviewed all of the sites linked to its Website and is not responsible for the contents of any such linked site. The presence of any link does not imply endorsement by Metro Review of the site. The use of any linked website is at the user’s own risk.'
             },
             modifications: {
                 title: 'Site Modifications',
