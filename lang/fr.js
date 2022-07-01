@@ -481,6 +481,7 @@ module.exports = {
       cookies: "Cookies et balises Web",
       ads: "Partenaires publicitaires",
       tppp: "Politiques de confidentialité des tiers",
+      analytics: "Google Analytics",
       ccpa: "Droits à la vie privée de l’ACCP",
       gdpr: "Droits de protection des données GDPR",
       child: "Informations pour les enfants",
@@ -492,7 +493,7 @@ module.exports = {
     sections: {
       base: {
         text1:
-          "Chez Metro Reviews, accessible à partir de https://metrobots.xyz, l’une de nos principales priorités est le respect de la vie privée de nos visiteurs. Ce document sur la politique de confidentialité contient les types d’informations qui sont collectées et enregistrées par Metro Reviews et la manière dont nous les utilisons.",
+          "Chez Metro Reviews, accessible à partir de metrobots.xyz, l’une de nos principales priorités est le respect de la vie privée de nos visiteurs. Ce document sur la politique de confidentialité contient les types d’informations qui sont collectées et enregistrées par Metro Reviews et la manière dont nous les utilisons.",
         text2:
           "Si vous avez des questions supplémentaires ou si vous souhaitez obtenir plus d’informations sur notre politique de confidentialité, n’hésitez pas à nous contacter.",
         text3:
@@ -560,6 +561,20 @@ module.exports = {
           base: "La politique de confidentialité de Metro ne s’applique pas aux autres annonceurs ou sites Web. Nous vous conseillons donc de consulter les politiques de confidentialité respectives de ces serveurs publicitaires tiers pour obtenir des informations plus détaillées. Ces politiques peuvent comprendre leurs pratiques et des instructions sur la façon de refuser certaines options.",
           out: "Vous pouvez choisir de désactiver les cookies par le biais des options de votre navigateur individuel. Pour connaître des informations plus détaillées sur la gestion des cookies avec des navigateurs web spécifiques, vous pouvez consulter les sites web respectifs de ces navigateurs.",
         },
+      },
+      analytics: {
+        title: "Google Analytics",
+        texts: {
+          base: "Nous utilisons Google Analytics comme un service de suivi tiers, mais nous ne l'utilisons pas pour vous suivre individuellement ou pour collecter vos données personnelles. Nous utilisons Google Analytics pour recueillir des informations sur les performances de notre site Web et sur la façon dont nos utilisateurs, en général, naviguent et utilisent Metro Reviews. Cela nous aide à évaluer l'utilisation de Metro Reviews par nos utilisateurs, à compiler des rapports statistiques sur l'activité et à améliorer notre contenu et les performances de notre site Web.",
+          second: "Google Analytics recueille certaines informations au fil du temps, telles que votre adresse IP, votre type de navigateur, votre fournisseur d'accès Internet, les pages de renvoi et de sortie, l'horodatage et d'autres données similaires concernant votre utilisation de Metro Reviews. Nous ne lions pas ces informations à vos données personnelles, comme votre nom d'utilisateur.",
+          third: {
+            text: "Metro Reviews n'utilisera pas, et n'autorisera pas un tiers à utiliser l'outil Google Analytics pour suivre nos utilisateurs individuellement, recueillir des renseignements personnels autres que l'adresse IP, ou établir une corrélation entre votre adresse IP et votre identité. Google fournit de plus amples informations sur ses propres pratiques en matière de protection de la vie privée et sur les éléments suivants",
+            link: "propose un module complémentaire de navigateur permettant de refuser le suivi par Google Analytics."
+          },
+          out: "Certaines pages de notre site peuvent définir d'autres cookies tiers. Par exemple, nous pouvons intégrer du contenu, comme des vidéos, provenant d'un autre site qui définit un cookie. Bien que nous essayions de minimiser ces cookies tiers, nous ne pouvons pas toujours contrôler les cookies que ce contenu tiers définit."
+        }
+
+
       },
       ccpa: {
         title:
